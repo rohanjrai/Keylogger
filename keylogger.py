@@ -13,5 +13,3 @@ if __name__ == "__main__":
     listener = keyboard.Listener(on_press=keyPressed)
     listener.start()
     input()
-
-#https://www.youtube.com/watch?v=mDY3v2Xx-Q4

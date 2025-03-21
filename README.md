@@ -13,8 +13,8 @@ The Keylogger Project aimed to establish a controlled environment for simulating
 
 ### Tools Used
 
-- Visual Studio Code for writing the code.
-- Python language for developing keylogger functionality.
+- Visual Studio Code for coding and debugging.
+- Python language for developing functionality.
 - pynput for capturing keyboard inputs.
 
 ## Steps
